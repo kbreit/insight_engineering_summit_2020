@@ -11,7 +11,7 @@ If you are new to GitHub please setup an account.
 1. Create a new account at https://github.com/join?source=header-home.
 2. Set your profile as much as you wish. Names, pictures, all are useful.
 3. Download Git from https://git-scm.com/downloads and install it on your computer. This class will focus on the command line interface but there are graphical interfaces you're welcome to use.
-4. Test git by going to the terminal and execute "git version". It should respond with a version. Note: I recommend using the Git bash program if you're on Windows.
+4. Test git by going to the terminal and execute `git version`. It should respond with a version. Note: I recommend using the Git bash program if you're on Windows.
 5. Set your git identity using these commands:
 ```
     git config --global user.name "John Doe"
