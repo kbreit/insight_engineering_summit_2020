@@ -8,7 +8,7 @@ If you already have a GitHub account, please make sure you're able to push to a 
 
 If you are new to GitHub please setup an account.
 
-1. Create a new account at https://github.com/join?source=header-home.
+1. Create a new account at https://github.com/join?source=header-home. You'll need to use your password in clear text during today's session and have it stored in an unencrypted file. Please use a new password which you don't use anywhere else.
 2. Set your profile as much as you wish. Names, pictures, all are useful.
 3. Download Git from https://git-scm.com/downloads and install it on your computer. This class will focus on the command line interface but there are graphical interfaces you're welcome to use.
     * **Note**: If you happen to be a macOS user and use Homebrew, you can install git using Homebrew. If you're on Linux, use your distribution's package manager.
